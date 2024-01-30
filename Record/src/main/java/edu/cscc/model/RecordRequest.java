@@ -57,19 +57,19 @@ public class RecordRequest {
 		this.damaged = isDamaged;
 	}
 
-	
+
 	public String title;
-	
+
 	public String artist;
-	
+
 	public String label;
-	
+
 	public int released;
-	
+
 	public int tracks;
-	
+
 	public String size;
-	
+
 	public boolean damaged;
-	
+
 }
